@@ -7,7 +7,7 @@ Takes two numbers as input.
  Subtraction
  Multiplication
  Division 
- Displays the result of each operation.
+ -Displays the result of each operation.
 
  # Task 2 Create a Personalized Greeting
  Takes a user's first and last name.
